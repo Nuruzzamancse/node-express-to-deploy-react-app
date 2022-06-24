@@ -4,7 +4,7 @@
 - go to root directory `cd node-express-to-deploy-react-app`
 - run `npm i`
 - replace demo with your react app and also replace demo in `index.js` file
-- cd react-app (your react app name)
+- `cd react-app` (your react app name)
 - run `npm i`
 - run `npm run build`
 - go to root directory `cd ..`
