@@ -1,7 +1,7 @@
 # node-express-to-deploy-react-app
 - install pm2 globaly, run `npm install pm2 -g` follow this https://pm2.keymetrics.io/
 - clone this repo `git clone git@github.com:Nuruzzamancse/node-express-to-deploy-react-app.git`
-- go to root directory `cd node-express-to-deploy-react-app.git`
+- go to root directory `cd node-express-to-deploy-react-app`
 - run `npm i`
 - replace demo with your react app and also replace demo in `index.js` file
 - cd react-app (your react app name)
